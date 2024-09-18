@@ -20,6 +20,9 @@ I'm a passionate developer with a strong background in robotics programming. I'm
 ![.NET](https://img.shields.io/badge/-.NET-000?&logo=.net)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Dapper](https://img.shields.io/badge/-Dapper-000?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOCwwQzMuNTg0LDAsMCwzLjU4NCwwLDhTMy41ODQsMTYsOCwxNnM4LTMuNTg0LDgtOFMzLjU4NCwwLDgsMFogTTgsM2MwLjU1MiwwLDEsMC40NDgsMSwxcy0wLjQ0OCwxLTEsMS0xLTAuNDQ4LTEtMVM3LjQ0OCwzLDgsM1ogTTgsMTFjLTAuNTUyLDAtMS0wLjQ0OC0xLTFzMC40NDgtMSwxLTFzMSwwLjQ0OCwxLDFTOC41NTIsMTEsOCwxMXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)
 
 ## Get in Touch
 Feel free to reach out via email: [porteryoung2005@gmail.com](mailto:porteryoung2005@gmail.com)
