@@ -1,7 +1,7 @@
 # 👋 Welcome to Porter Young's GitHub!
 
 ## About Me
-I'm a passionate developer with a strong background in robotics programming. I'm currently exploring new opportunities in the tech industry and always eager to learn and collaborate.
+I'm a passionate developer with a strong background in web development as well as robotics programming. I'm currently exploring new opportunities in the tech industry and always eager to learn and collaborate.
 
 ## Projects
 - **Keeper**: A website that allows users to post pictures and organize them into folders called vaults, similar to Pinterest.
